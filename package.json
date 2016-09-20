@@ -1,5 +1,5 @@
 {
-  "name": "likely",
+  "name": "test",
   "description": "test",
   "version": "0.0.1",
   "private": true,
@@ -14,7 +14,7 @@
     "deploy": "gcloud app deploy"
   },
   "dependencies": {
-    "express": "^4.13.4"
-    "likely": "^2.1.11"
+    "express": "^4.13.4",
+    "likely": "^0.2.0"
   }
 }
